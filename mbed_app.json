@@ -18,8 +18,8 @@
             "update-client.storage-locations"   : "1",
             "mbed-trace.enable"                 : null,
             "nsapi.default-wifi-security"       : "WPA_WPA2",
-            "nsapi.default-wifi-ssid"           : "\"IOT_MERCURY_59E0\"",
-            "nsapi.default-wifi-password"       : "\"1234567890\""
+            "nsapi.default-wifi-ssid"           : "\"SSID\"",
+            "nsapi.default-wifi-password"       : "\"PASSWORD\""
         },
         "REALTEK_RTL8195AM": {
             "target.network-default-interface-type" : "WIFI",
