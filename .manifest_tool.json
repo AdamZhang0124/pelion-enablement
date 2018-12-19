@@ -1,0 +1,13 @@
+{
+    "classId": "900b1de4-ca02-5a87-a943-1db854ffef9a", 
+    "default-certificates": [
+        {
+            "file": ".update-certificates\\default.der"
+        }
+    ], 
+    "deviceURNs": [], 
+    "modelName": "TEST", 
+    "private-key": ".update-certificates\\default.key.pem", 
+    "vendorDomain": "arm.com", 
+    "vendorId": "fa6b4a53-d5ad-5fdf-be9d-e663e4d41ffe"
+}
